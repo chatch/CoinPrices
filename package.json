@@ -1,6 +1,7 @@
 {
-  "name": "CryptoWatch",
+  "name": "CoinPrices",
   "version": "0.1.0",
+  "license": "Apache-2.0",
   "private": true,
   "devDependencies": {
     "jest-expo": "~19.0.0",
@@ -22,5 +23,6 @@
     "expo": "^19.0.0",
     "react": "16.0.0-alpha.12",
     "react-native": "^0.46.1"
-  }
+  },
+  "keywords": ["react native", "cryptocurrencies"]
 }
